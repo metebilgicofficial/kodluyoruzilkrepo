@@ -31,4 +31,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [Patika](https://www.patika.dev/tr)
 
 ## Kodluyoruz-Patika-resim
-![]()
+![](img/resim.png)
